@@ -1,0 +1,1 @@
+"C:/Program Files/TortoiseSVN/bin/TortoiseProc.exe" /command:commit  /path:"E:/tool"  /logmsg:"test log message"   /closeonend:0    /Program Files/TortoiseSVN/bin/TortoiseProc.exe" /command:commit  /path:"E:/tool"  /logmsg:"test log message"   /closeonend:0    
